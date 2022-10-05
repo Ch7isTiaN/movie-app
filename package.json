@@ -1,0 +1,14 @@
+{
+  "name": "micodigo",
+  "version": "1.0.0",
+  "description": "Aplicación Web que consume una API para poder mostrar información sobre películas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Christian N",
+  "license": "MIT"
+}
